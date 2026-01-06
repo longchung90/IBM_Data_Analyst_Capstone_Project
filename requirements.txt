@@ -1,0 +1,20 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning / modelling
+scikit-learn
+
+# Jupyter environment
+jupyter
+notebook
+
+# Optional (for interactive visuals / Excel IO)
+plotly
+openpyxl
+
+

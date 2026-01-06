@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+venv/
+env/
+
+# Data (if large or raw)
+data/raw/
